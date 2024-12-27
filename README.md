@@ -1,11 +1,12 @@
 # Dashboard-Project
+This project features a comprehensive E-commerce Sales Dashboard built using Power BI to analyze and visualize sales performance, customer behavior, and product trends.
 
-#Project - Ecommerce Sales Dashboard
+# Project - Ecommerce Sales Dashboard
 
 This project demonstrates a comprehensive e-commerce sales dashboard built using Power BI. 
 It provides actionable insights into sales performance, customer behavior, product performance, and regional trends.
 
-#Key Features
+# Key Features
 
 1.Total Sales, Profit, and Revenue Trends.
 
@@ -17,11 +18,11 @@ It provides actionable insights into sales performance, customer behavior, produ
 
 5.Sales Forecasting.
 
-#Objective
+# Objective
 
 To help e-commerce businesses analyze sales data for better decision-making.
 
-#Skills Demonstrated
+# Skills Demonstrated
 
 1.Power BI report building.
 
